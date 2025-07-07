@@ -1,7 +1,7 @@
 # DevopS (DOCUMENTATION)
 ---
 
-# .NET (ASP.NET Core)
+# (1) .NET (ASP.NET Core)
 
 ## 1. How to Install Dependencies
 
@@ -29,7 +29,7 @@ my-dotnet-app/
 
 ---
 
-# React
+# (2)React
 
 ## 1. How to Install Dependencies
 
@@ -66,7 +66,7 @@ my-react-app/
 
 ---
 
-# Angular
+# (3) Angular
 
 ## 1. How to Install Dependencies
 
@@ -95,7 +95,7 @@ my-angular-app/
 
 ---
 
-# Node.js (Express)
+# (4) Node.js (Express)
 
 ## 1. How to Install Dependencies
 
@@ -130,7 +130,7 @@ my-node-app/
 
 ---
 
-# Java (Spring Boot)
+# (5) Java (Spring Boot)
 
 ## 1. How to Install Dependencies
 
@@ -164,7 +164,7 @@ my-spring-boot-app/
 
 ---
 
-# Go (Golang)
+# (6) Go (Golang)
 
 ## 1. How to Install Dependencies
 
@@ -201,7 +201,7 @@ my-go-app/
 
 ---
 
-# Python (Flask)
+# (7) Python (Flask)
 
 ## 1. How to Install Dependencies
 
